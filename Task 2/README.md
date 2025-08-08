@@ -40,6 +40,6 @@ Due to layout constraints, insights are written here instead of on the dashboard
 Superstore-Visualization-Task/
 ├── dataset/
 │   └── Superstore.csv
-├── screenshots/      # or PDF
-│   └── dashboard1.png / Superstore_Analysis.pdf
+├── screenshots/
+│   └── dashboard.png
 ├── README.md
